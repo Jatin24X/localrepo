@@ -1,0 +1,2 @@
+This is a local repository for learning Git. It contains a simple HTML file that we will use to practice various Git commands and workflows. The repository is organized as follows:
+- `index.html`: A simple HTML file that serves as the main content of the repository.
